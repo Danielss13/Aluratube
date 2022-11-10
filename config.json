@@ -1,0 +1,134 @@
+{
+    "name": "Daniel Santos (DevDanielss13)",
+    "job": "Developer Front-end",
+    "github": "Danielss13",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "20 jogadas que tornaram o FALLEN uma LENDA NO CS:GO - Melhores Momentos da carreira",
+                "url": "https://youtu.be/ToW_dQb7O9E",
+                "thumb": "https://i.ytimg.com/an_webp/ToW_dQb7O9E/mqdefault_6s.webp?du=3000&sqp=CMWftJsG&rs=AOn4CLBmREQjjlyO_gB_x9d3781KLvE5tg"
+            },
+            {
+                "title": "Neymar humilhando O MELHOR JOGADOR DO MUNDO de CS:GO (quando o Neymar Jr decide jogar CS:GO)",
+                "url": "https://youtu.be/6z5ht-wzqNQ",
+                "thumb": "https://i.ytimg.com/an_webp/6z5ht-wzqNQ/mqdefault_6s.webp?du=3000&sqp=CPjGtJsG&rs=AOn4CLDcDRLj2nwtimp4_N4-UiqULlm3Ng"
+            },
+            {
+                "title": "Como ESTICAR de VERDADE a RES no VALORANT! *tutorial*",
+                "url": "https://youtu.be/Zyp1W1zOO_c",
+                "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE4ZhQtyegM3V137biAO8AF_TebUzhqcbKcuyiWNwiKNzkMXY_U4knSIp1OvlkI6YjD7s&usqp=CAU"
+            
+            },
+            {
+                "title": "QUASE BATI MEU RECORDE DE KILLS EM SANHOK! - PUBG",
+                "url": "https://youtu.be/qJUb1duyzGw",
+                "thumb": "https://i.ytimg.com/an_webp/ZkDnJdRTZ-g/mqdefault_6s.webp?du=3000&sqp=CIjOtJsG&rs=AOn4CLBRIAU9kxMAUAJ2Xb29YPQckzf1kQ"
+            },
+            {
+                "title": "GOD OF WAR - O INÍCIO DE GAMEPLAY, Dublado e Legendado em Português PT BR! No PS4 Pro! - BRKsEDU",
+                "url": "https://youtu.be/Wf5tpMhziII",
+                "thumb":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZICESytwzJXSatDfywKYNRrL0d7lvjmdM2A&usqp=CAU"
+            },
+            {
+                "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
+                "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
+                "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+            },
+            {
+                "title": "We Were Here Together - Os Enigmas deste Mundo",
+                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
+                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+            },
+            {
+                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
+                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
+                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+            },
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
+                "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+            },
+            {
+                "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
+                "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
+                "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+            },
+            {
+                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+            },
+            {
+                "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
+                "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+            },
+            {
+                "title": "Como Foi Programado um App Que Faz Mágica",
+                "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
+                "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+            },
+            {
+                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            },
+            {
+                "title": "5 Erros Históricos do CSS",
+                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+            },
+            {
+                "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
+                "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
+                "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+            }
+        ],
+        "back-end": [
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
+                "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+            },
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o Java? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
+                "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Machine Learning? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+            },
+            {
+                "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+                "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+            },
+            {
+                "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
+                "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o C#? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+            }
+        ]
+    }
+}
